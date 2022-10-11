@@ -1,3 +1,3 @@
 # js.promises
 
-Merhaba test
+Merhaba git denemesi
